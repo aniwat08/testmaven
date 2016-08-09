@@ -10,8 +10,8 @@
 
 	<packaging>jar</packaging>
 
-	<name>maven-example-1</name>
-	<url>http://www.in28minutes.com</url>
+	<name>testmaven</name>
+	<url>https://github.com/aniwat08</url>
 
 	<dependencies>
 		<dependency>
