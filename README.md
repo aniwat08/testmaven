@@ -10,7 +10,7 @@ Create Environment variables MAVEN_HOME=c:\maven
 Copy /testmaven to local machine ex. c:\Dev\tmp\testmaven
 
 run command maven ex.
-
+<pre>
 C:\Dev\tmp\testmaven>mvn clean
 [INFO] Scanning for projects...
 [INFO]
@@ -104,4 +104,4 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Final Memory: 13M/150M
 [INFO] ------------------------------------------------------------------------
 
-
+</pre>
